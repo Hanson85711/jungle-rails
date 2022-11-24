@@ -1,6 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. 
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. Application simulates an online shop for plants. Has functionalities of category based product listing, real time cart updates, transaction process, admin-side product and category creation, and user authentication. 
+
+## Screenshots 
+!["Homepage of app"](https://github.com/Hanson85711/jungle-rails/blob/master/app/assets/images/Home%20page.png)
+!["Example of product category"](https://github.com/Hanson85711/jungle-rails/blob/master/app/assets/images/Shrubs%20Product%20Catalogue.png)
+!["User Cart Example"](https://github.com/Hanson85711/jungle-rails/blob/master/app/assets/images/Cart%20Example.png)
+!["Admin Page Example"](https://github.com/Hanson85711/jungle-rails/blob/master/app/assets/images/Admin%20Page.png)
 
 ## Setup
 
